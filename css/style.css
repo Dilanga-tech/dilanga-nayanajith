@@ -9672,3 +9672,12 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    ion-icon {
+      font-size: 64px;
+      --ionicon-stroke-width: 20px;
+    }
+
+    .services-1:hover .icon ion-icon {
+      color: #fff; }
+   

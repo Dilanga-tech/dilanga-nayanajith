@@ -1,9 +1,10 @@
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * 
+ * 
  */
+ @import url('http://fonts.cdnfonts.com/css/signatura-monoline-script');
+ @import url('http://fonts.cdnfonts.com/css/helliya-signature');
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8465,6 +8466,8 @@ h1, h2, h3, h4, h5,
   bottom: 120px;
   z-index: 2; }
 
+
+
 .mouse-icon {
   width: 70px;
   height: 70px;
@@ -9681,3 +9684,8 @@ textarea.form-control {
     .services-1:hover .icon ion-icon {
       color: #fff; }
    
+      /* @media (max-width: 990px){
+        .mouse{
+          bottom: 0px;
+        }
+      } */

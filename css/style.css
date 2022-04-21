@@ -9689,3 +9689,11 @@ textarea.form-control {
           bottom: 0px;
         }
       } */
+
+
+      .heading-section .counter-wrap .text span{
+        font-family: 'Helliya Signature', sans-serif;
+        font-size: 65px; 
+        font-weight: 500; 
+        color: #3e64ff;
+      }

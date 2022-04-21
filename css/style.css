@@ -3,8 +3,8 @@
  * 
  * 
  */
- @import url('http://fonts.cdnfonts.com/css/signatura-monoline-script');
- @import url('http://fonts.cdnfonts.com/css/helliya-signature');
+ /* @import url('http://fonts.cdnfonts.com/css/signatura-monoline-script'); */
+ /* @import url('http://fonts.cdnfonts.com/css/helliya-signature'); */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9690,9 +9690,13 @@ textarea.form-control {
         }
       } */
 
+      @font-face {
+        font-family: "Helliya Signature";
+        src: url("../fonts/Helliya\ Signature.ttf");
+    }
 
       .heading-section .counter-wrap .text span{
-        font-family: 'Helliya Signature', sans-serif;
+        font-family: 'Helliya Signature';
         font-size: 3rem; 
         font-weight: 500; 
         color: #3e64ff;

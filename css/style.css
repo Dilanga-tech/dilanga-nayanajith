@@ -9688,18 +9688,19 @@ textarea.form-control {
         }
       } */
 
-      /* .ftco-about .counter-wrap .text p span {
+      .ftco-about .counter-wrap .text p span {
         font-weight: 400;
-        color: #000000; } */
+        color: #000000; 
+      }
 
       @font-face {
         font-family: "Helliya Signature";
         src: url("../fonts/Helliya\ Signature.ttf");
     }
 
-      .heading-section .counter-wrap .text span{
+      .ftco-about .counter-wrap .text p .signature{
         font-family: 'Helliya Signature';
         font-size: 3rem; 
         font-weight: 500; 
-        
+        color: #000000; 
       }

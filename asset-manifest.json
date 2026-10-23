@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dilanga-nayanajith/static/css/main.1c6dc7c2.css",
+    "main.js": "/dilanga-nayanajith/static/js/main.556030f0.js",
+    "static/js/453.bf5b3f29.chunk.js": "/dilanga-nayanajith/static/js/453.bf5b3f29.chunk.js",
+    "static/media/port-2.png": "/dilanga-nayanajith/static/media/port-2.d1404fe6b707fb35b089.png",
+    "static/media/port-3.jpg": "/dilanga-nayanajith/static/media/port-3.dd42da47bab4bf3f812d.jpg",
+    "static/media/port-4.png": "/dilanga-nayanajith/static/media/port-4.fa6cdfb7f35acf230dd9.png",
+    "static/media/profile.png": "/dilanga-nayanajith/static/media/profile.7c36c21115ef311033f7.png",
+    "static/media/CV-DilangaThennakoon.pdf": "/dilanga-nayanajith/static/media/CV-DilangaThennakoon.0cc6e5ae1eca6f425bea.pdf",
+    "static/media/port-1.png": "/dilanga-nayanajith/static/media/port-1.9df4042aa93992418f59.png",
+    "static/media/profile-2.png": "/dilanga-nayanajith/static/media/profile-2.e4cc44daa3f54d9f713b.png",
+    "index.html": "/dilanga-nayanajith/index.html",
+    "main.1c6dc7c2.css.map": "/dilanga-nayanajith/static/css/main.1c6dc7c2.css.map",
+    "main.556030f0.js.map": "/dilanga-nayanajith/static/js/main.556030f0.js.map",
+    "453.bf5b3f29.chunk.js.map": "/dilanga-nayanajith/static/js/453.bf5b3f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6dc7c2.css",
+    "static/js/main.556030f0.js"
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
+  "homepage": "https://dilanga-tech.github.io/dilanga-nayanajith/",
   "private": true,
   "dependencies": {
     "@fancyapps/ui": "^6.1.14",
@@ -19,6 +20,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
